@@ -5,6 +5,12 @@ fucntion truc(){
 fucntion trucNgao(){
   return "";
 }
+fucntion trucNgao2(){
+  return "";
+}
+fucntion trucNgao3(){
+  return "";
+}
 
 
 
